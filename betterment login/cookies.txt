@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wwws.betterment.com	TRUE	/	FALSE	1999999999	spin	BAhJIilmN2QxZTNjYy0wOThkLTQyMjEtOTIwNy1iZmY1YmYzZWNhMTkGOgZFRg%3D%3D--c93ff0c1eda3afe9d6f694a9dadd43fbafc10612623c5373c8dc676036acdd17
+.betterment.com	TRUE	/	FALSE	1999999999	tt_visitor_id	e81a7686-94c7-460b-a5a9-e6cf805343e6
+wwws.betterment.com	TRUE	/	FALSE	1999999999	_retail_session	cmiHZwNLWqG9tRs1fV1CjQExiftQtHdGHKU5zBsTKR5xWv%2BraREQmU0xSTiPIjB15qRcrS7tU1t2eDsiBUfOxsgVjXzh5YzUenq3FmhDofMmfkQCQw6aFd3cC%2FLLWePninn8in8aopriTWuDVjjis2HKXcLSX1peIpLehkAFnPfgGFwrvy3jxsJyN%2BFiQ%2BL18xW7kWRRL6et8RcjXBb9ki61NpUtW39rCyJYsGIF9A7hyJIEkGktSPrYvu5eFDMyHiSI0INMKvoYw3Z8gl02McTnRnGmFxU%3D--G7OF%2Bf%2BeNNnB71j%2F--54gwYtZegVPxp697rBTwNw%3D%3D
+

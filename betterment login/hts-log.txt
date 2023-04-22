@@ -1,0 +1,18 @@
+HTTrack3.49-2 launched on Fri, 21 Apr 2023 23:01:56 at https://wwws.betterment.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://wwws.betterment.com -O "/Users/macbookair/websites/betterment login" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:02:00	Warning: 	Found for https://wwws.betterment.com/
+23:02:00	Warning: 	File has moved from https://wwws.betterment.com/ to https://wwws.betterment.com/app/summary
+23:02:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wwws.betterment.com/assets/application-55e2a476012302b6822691990501093322b14cbaad7e6d82462bd7b876955e22.js
+23:02:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wwws.betterment.com/packs/js/vendors~application-5add0b62a89a388d34d4.chunk.js
+23:02:49	Warning: 	HTML file (50927 bytes) retransferred due to lack of cache: https://wwws.betterment.com/app/login
+23:02:51	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://wwws.betterment.com/app/login?return_to=%2Fapp%2Fsummary)
+23:02:51	Warning: 	HTML file (56137 bytes) retransferred due to lack of cache: https://wwws.betterment.com/app/password_resets/new
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 20 links scanned, 25 files written (7646566 bytes overall) [2364917 bytes received at 41489 bytes/sec], 7401457 bytes transferred using HTTP compression in 15 files, ratio 29%, 2.8 requests per connection
+(1 errors, 6 warnings, 0 messages)
